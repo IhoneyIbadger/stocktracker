@@ -7,4 +7,4 @@ RUN python3 -m pip install --no-cache-dir -r requirements.txt
 
 COPY . /home/app
 
-CMD ["python3", "./app/app.py"]
+CMD ["python3", ".home/app/app/app.py"]
